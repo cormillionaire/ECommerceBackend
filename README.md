@@ -23,7 +23,7 @@ There is no live link as this is a command line based application.
 ## Usage
 Manage products for your online store that can be pulled based on tag and/or category
 
-![ECommerceBackend.gif](./images/ECommerceBackend.gif)
+![EcommerceBackend.gif](./images/EcommerceBackend.gif)
 
 [Starting app and testing Category routes](https://drive.google.com/file/d/1ulRl-jpaLIiLfKBzqEa9pGhXV1bikHN-/view)
 [Testing Product routes](https://drive.google.com/file/d/1lttDnInZahf9ogr2RBapfq-7yE-x63HQ/view)
